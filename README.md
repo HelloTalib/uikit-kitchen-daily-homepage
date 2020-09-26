@@ -13,7 +13,7 @@ yarn or npm install
 gulp build
 ```
 
-## Watch all tasks/files for production mode
+## Run all tasks/files for production mode
 ```bash
 gulp production
 ```
