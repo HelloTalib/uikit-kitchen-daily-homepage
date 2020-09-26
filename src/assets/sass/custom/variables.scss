@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+$global-font-family: 'Karla', sans-serif;
+$global-font-size: 16px;
+$base-body-font-weight: 400;
+$global-line-height: 1.8;
+$global-primary-background: #ca404f;
+$global-secondary-background: #4da4b0;
+$global-color: #5a5150;
+// $container-small-max-width: 1000px;
+// $heading-bullet-border: $global-primary-background;
+// $global-border:#fddf00;
+// $global-primary-color: #fddf00;
+// $icon-button-background:red;
+// $global-border-width: 200px;
+$global-background: #fcfcfc;
+// $global-muted-color: #fddf00;
+$global-link-color: $global-primary-background;
+$base-link-hover-color: $global-secondary-background;
+$base-link-hover-text-decoration: none;
+
+// $heading-xlarge-font-size-l: 114px;
+// $heading-xlarge-font-size-m: 114px;
+// $heading-xlarge-font-size-s: 114px;
+
+//seclection
+// $base-selection-background: #111;
+
+//heading
+// $base-heading-font-family: "Roboto", sans-serif;
+$base-heading-font-weight: 500;
+$base-heading-color: #4e4b4b;
+// $heading-line-width:200px;
+
+$offcanvas-bar-background: #fff;
